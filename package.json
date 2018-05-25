@@ -1,0 +1,16 @@
+{
+  "name": "voting_app",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gaurav Savanur",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^2.9.4",
+    "react-router": "^3.0.5",
+    "redux": "^4.0.0"
+  }
+}
