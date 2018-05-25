@@ -12,5 +12,19 @@
     "lighthouse": "^2.9.4",
     "react-router": "^3.0.5",
     "redux": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravsavanur07/progressive-web-app.git"
+  },
+  "keywords": [
+    "lighthouse",
+    "testing",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/gauravsavanur07/progressive-web-app/issues"
+  },
+  "homepage": "https://github.com/gauravsavanur07/progressive-web-app#readme"
 }
